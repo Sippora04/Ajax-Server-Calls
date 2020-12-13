@@ -11,14 +11,19 @@
       "salary": "7000"
     },
     {
-      "id": 3,
-      "name": "Anita",
-      "salary": "20000"
+      "name": "Kabira",
+      "salary": "350000",
+      "id": 4
     },
     {
-      "name": "Asher",
-      "salary": "200000",
-      "id": 4
+      "name": "Pumba",
+      "salary": "240000",
+      "id": 5
+    },
+    {
+      "name": "Pumba",
+      "salary": "240000",
+      "id": 6
     }
   ]
 }
